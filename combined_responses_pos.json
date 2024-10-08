@@ -1,0 +1,42 @@
+[
+    {
+        "review": "This medication worked wonders for my migraines, and I felt relief within hours!",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Headache\",\n    \"review\": \"This medication worked wonders for my migraines, and I felt relief within hours!\"\n}"
+    },
+    {
+        "review": "After starting this treatment, my energy levels improved, and I no longer feel tired throughout the day.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Fatigue\",\n    \"review\": \"After starting this treatment, the patient experienced improved energy levels and no longer feels tired throughout the day.\"\n}"
+    },
+    {
+        "review": "My blood pressure has been stable ever since I began taking this medication. I\u2019m very satisfied with the results.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": null,\n    \"review\": \"This medication has helped stabilize my blood pressure, and I am very satisfied with the results.\"\n}"
+    },
+    {
+        "review": "This drug completely cleared up my skin condition, and I haven\u2019t had any side effects.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Skin rash\",\n    \"review\": \"This drug completely cleared up my skin condition, and I haven\u2019t had any side effects.\"\n}"
+    },
+    {
+        "review": "I\u2019ve been using this medication for months, and it\u2019s been a life-changer. My pain has significantly decreased.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"N/A\",\n    \"review\": \"The medication has been a life-changer for the patient, significantly decreasing their pain over the months.\"\n}"
+    },
+    {
+        "review": "The treatment helped me sleep better at night, and I wake up feeling refreshed and full of energy.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Fatigue\",\n    \"review\": \"The treatment helped the patient sleep better at night and wake up feeling refreshed and full of energy. No adverse reactions reported.\"\n}"
+    },
+    {
+        "review": "My mood has improved dramatically since starting this medication, and I feel much more positive overall.",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": \"N/A\",\n  \"review\": \"This medication has had a positive impact on the patient's mood, leading to a significant improvement overall.\"\n}"
+    },
+    {
+        "review": "I haven\u2019t had any side effects, and my symptoms have almost completely disappeared. This drug has been a game-changer.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"N/A\",\n    \"review\": \"The patient did not experience any side effects and noticed a significant improvement in their symptoms after taking the medication, considering it a game-changer.\"\n}"
+    },
+    {
+        "review": "My joint pain has reduced significantly, and I can now move freely without discomfort.",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": \"None\",\n  \"review\": \"The patient experienced a reduction in joint pain and can now move freely without discomfort.\"\n}"
+    },
+    {
+        "review": "The medication was easy to take, and I saw improvements within the first week. Very happy with the results!",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"None\",\n    \"review\": \"The medication was easy to take, and the patient saw improvements within the first week. They are very happy with the results.\"\n}"
+    }
+]

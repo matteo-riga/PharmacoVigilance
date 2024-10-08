@@ -1,0 +1,66 @@
+[
+    {
+        "review": "This medication worked wonders for my migraines, and I felt relief within hours!",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Headache\",\n    \"review\": \"This medication worked wonders for my migraines, and I felt relief within hours!\"\n}"
+    },
+    {
+        "review": "After starting this treatment, my energy levels improved, and I no longer feel tired throughout the day.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Fatigue\",\n    \"review\": \"After starting this treatment, the patient experienced improved energy levels and no longer feels tired throughout the day.\"\n}"
+    },
+    {
+        "review": "My blood pressure has been stable ever since I began taking this medication. I\u2019m very satisfied with the results.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": null,\n    \"review\": \"This medication has helped stabilize my blood pressure, and I am very satisfied with the results.\"\n}"
+    },
+    {
+        "review": "This drug completely cleared up my skin condition, and I haven\u2019t had any side effects.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Skin rash\",\n    \"review\": \"This drug completely cleared up my skin condition, and I haven\u2019t had any side effects.\"\n}"
+    },
+    {
+        "review": "I\u2019ve been using this medication for months, and it\u2019s been a life-changer. My pain has significantly decreased.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"N/A\",\n    \"review\": \"The medication has been a life-changer for the patient, significantly decreasing their pain over the months.\"\n}"
+    },
+    {
+        "review": "The treatment helped me sleep better at night, and I wake up feeling refreshed and full of energy.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Fatigue\",\n    \"review\": \"The treatment helped the patient sleep better at night and wake up feeling refreshed and full of energy. No adverse reactions reported.\"\n}"
+    },
+    {
+        "review": "My mood has improved dramatically since starting this medication, and I feel much more positive overall.",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": \"N/A\",\n  \"review\": \"This medication has had a positive impact on the patient's mood, leading to a significant improvement overall.\"\n}"
+    },
+    {
+        "review": "I haven\u2019t had any side effects, and my symptoms have almost completely disappeared. This drug has been a game-changer.",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"N/A\",\n    \"review\": \"The patient did not experience any side effects and noticed a significant improvement in their symptoms after taking the medication, considering it a game-changer.\"\n}"
+    },
+    {
+        "review": "My joint pain has reduced significantly, and I can now move freely without discomfort.",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": \"None\",\n  \"review\": \"The patient experienced a reduction in joint pain and can now move freely without discomfort.\"\n}"
+    },
+    {
+        "review": "The medication was easy to take, and I saw improvements within the first week. Very happy with the results!",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"None\",\n    \"review\": \"The medication was easy to take, and the patient saw improvements within the first week. They are very happy with the results.\"\n}"
+    },
+    {
+        "review": "For Pneumonia \"On my fourth pill of Vantin in a few more hours, and I couldn't believe the rapidity of the healing! I am taking it for Klebsiella pneumoniae, along with Macrobid for Enterobacter bacteria! I have had dry mouth, dry throat, increased thirst, slight ringing in ears that has passed, headache, ugh, was the worst so far, but not horrible. Heavier menstrual period, a little dizziness, and hey! I'm penicillin allergic. So I think I'm doing A-1.\"\n",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Headache\",\n    \"review\": \"The patient experienced dry mouth, dry throat, increased thirst, slight ringing in ears, headache, heavier menstrual period, and a little dizziness while taking Vantin for pneumonia. Despite these side effects, the patient considers their overall experience to be good.\"\n}"
+    },
+    {
+        "review": "For Bronchitis \"On the third pill I experienced very severe diarrhea which caused me to discontinue the medication. I am still experiencing the diarrhea even though I have been off the medicine for a few days. Also experiencing malaise and fatigue.\"\n",
+        "response": "```json\n{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Gastrointestinal discomfort\",\n    \"review\": \"The patient experienced severe diarrhea after taking the medication for bronchitis, leading to discontinuation. They are still having diarrhea and feeling fatigued.\"\n}\n```"
+    },
+    {
+        "review": "For Bladder Infection \"I've had many urinary tract infections, and the normal medicines just quit working. I've been successfully treated with Vantin three times.\"\n",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"Gastrointestinal discomfort\",\n    \"review\": \"The patient mentioned successful treatment with Vantin for bladder infection, experiencing no severe adverse reactions. However, they may have experienced gastrointestinal discomfort as a mild reaction.\"\n}"
+    },
+    {
+        "review": "For Sinusitis \"Vantin worked the best for me with sinusitis, whereas the 'z-pack' did not relieve me at all.\"\n",
+        "response": "{\n    \"primary\": \"Mild Reaction\",\n    \"secondary\": \"None\",\n    \"review\": \"The patient experienced better relief from sinusitis with Vantin compared to the 'z-pack'.\"\n}"
+    },
+    {
+        "review": "For Pneumonia \"This antibiotic worked really fast with no side effects for me.\"\n",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": null,\n  \"review\": \"This antibiotic worked really fast with no side effects for me. (Mild Reaction)\"\n}"
+    },
+    {
+        "review": "For Upper Respiratory Tract Infection \"Works great..... No side effects and clears up my frequent sinus infections quickly!\"",
+        "response": "{\n  \"primary\": \"Mild Reaction\",\n  \"secondary\": null,\n  \"review\": \"For Upper Respiratory Tract Infection 'Works great..... No side effects and clears up my frequent sinus infections quickly!'\"\n}"
+    }
+]
